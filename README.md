@@ -1,12 +1,13 @@
 # tvrp_interiors
-hello, dis is the best script for interiors in fivem lol, wher you can custom everything without limit lol
+Hello, this is the best script for interiors in FiveM. Where you can customize everything without any limitations.
 
 ## Installation
-copy the folder with all lua files in ur resources folder like for any script and add the name of the folder in ur citmp-server.yml or ur server.cfg lol
+Copy the folder with the Lua files and place them into your resources folder just like any other script. Be sure to add the name of the resource to your citmp-server.yml or your server.cfg files.
 
 ## Usage
-u can ez see how to add a new location, simply copy my example for the bahamas mamas and edit the values like u want ;D
+You can easily see how to add a new location in my example script. It provides an example for the Bahamas Mamas. You are free to edit the values to your liking. ;D
 
 ## Demo
-here is a vidio to show dis script in action : https://www.youtube.com/watch?v=l9zTy8UOIvo
-as u can see dis is the best script
+Here is a video to show the script in action: https://www.youtube.com/watch?v=l9zTy8UOIvo so hopefully you can agree with me that it's a fairly good script.
+
+thx to supa for fixing my bad english lol ^^ ;D
